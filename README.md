@@ -6,6 +6,6 @@ These pages are intended for use with the App Store product page and App Store p
 
 ## Pages
 
-- [Support](./support.md)
+- [Support](./SUPPORT.md)
 
-- [Privacy Policy](./privacy%20policy.md)
+- [Privacy Policy](./PRIVACY_POLICY.md)
