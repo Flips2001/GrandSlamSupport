@@ -1,4 +1,4 @@
-Support
+# Support
 
 If you need help with this app, contact me at:
 

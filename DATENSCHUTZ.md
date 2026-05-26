@@ -1,4 +1,4 @@
-Privacy Policy
+# Privacy Policy
 
 This app stores the data you enter in the app in a Supabase database so that the app can provide its core functionality.
 
